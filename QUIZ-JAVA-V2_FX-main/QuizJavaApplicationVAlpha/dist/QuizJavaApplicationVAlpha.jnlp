@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="QuizJavaApplicationVAlpha.jnlp">
+  <information>
+    <title>QuizJavaApplicationVAlpha</title>
+    <vendor>Amimi</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="lib\jaco-mp3-player-0.9.3.jar" size="90069" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="quiz.java.application.v.alpha.QuizJavaApplicationVAlpha"  name="QuizJavaApplicationVAlpha" />
+  <update check="always"/>
+</jnlp>
